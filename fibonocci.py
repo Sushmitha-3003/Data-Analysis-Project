@@ -1,3 +1,4 @@
+# Python progamm to fibbonaci number
 def fib(n):
     s=[]
     a,b=0,1
